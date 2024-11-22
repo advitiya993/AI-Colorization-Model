@@ -4,11 +4,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/11o5EfQn3udf7hM3yTdWionNWbYCzuK0c/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/user-attachments/assets/a8786226-2e6f-4af5-b60b-c5f0cdc5961a" alt="project-screenshot" width="600" height="400/">
+
 
   
   
 <h2>🧐 Features</h2>
+
 
 Here're some of the project's best features:
 
